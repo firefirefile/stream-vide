@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70f76d55-4e39-4f6e-8db2-7fa4ff2ebb78" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="JSX Component Folder.jsx.child.0" />
+        <option value="JSX Component Folder" />
+        <option value="JSX Component Folder with styles.jsx.child.0" />
+        <option value="JSX Component Folder with styles.jsx.child.1" />
+        <option value="JSX Component Folder with styles" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/pages/movies.jsx" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="200" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35pnz7jZFm914GDi5dtYftyFwIW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/admin/Documents/stream&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/layouts/Header" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28238.10" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70f76d55-4e39-4f6e-8db2-7fa4ff2ebb78" name="Changes" comment="" />
+      <created>1763816143109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763816143109</updated>
+      <workItem from="1763816144765" duration="47000" />
+      <workItem from="1763816661257" duration="464000" />
+      <workItem from="1763817198431" duration="2487000" />
+      <workItem from="1763834832055" duration="1582000" />
+      <workItem from="1763876400168" duration="1980000" />
+      <workItem from="1763878520173" duration="10313000" />
+      <workItem from="1763966625961" duration="9509000" />
+      <workItem from="1763993162550" duration="4489000" />
+      <workItem from="1764054070667" duration="186000" />
+      <workItem from="1764054547275" duration="9641000" />
+      <workItem from="1764073548587" duration="4405000" />
+      <workItem from="1764136665900" duration="75000" />
+      <workItem from="1764137884979" duration="1847000" />
+      <workItem from="1764225901672" duration="8140000" />
+      <workItem from="1764334856506" duration="5000" />
+      <workItem from="1764424073428" duration="45000" />
+      <workItem from="1764496172015" duration="489000" />
+      <workItem from="1764656903182" duration="26000" />
+      <workItem from="1764852465373" duration="337000" />
+      <workItem from="1765176252442" duration="3188000" />
+      <workItem from="1765180500884" duration="10008000" />
+      <workItem from="1765464165845" duration="45976000" />
+      <workItem from="1765945289551" duration="9533000" />
+      <workItem from="1766130906964" duration="11446000" />
+      <workItem from="1766314966865" duration="5089000" />
+      <workItem from="1766345782307" duration="2446000" />
+      <workItem from="1766477753709" duration="7513000" />
+      <workItem from="1766497912140" duration="1066000" />
+      <workItem from="1766510090584" duration="928000" />
+      <workItem from="1767174363214" duration="26796000" />
+      <workItem from="1767522332646" duration="3515000" />
+      <workItem from="1767597600440" duration="21168000" />
+      <workItem from="1768121926220" duration="4815000" />
+      <workItem from="1768487222808" duration="21000" />
+      <workItem from="1768653134257" duration="678000" />
+      <workItem from="1768814528416" duration="482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="javascript:npm:react" />
+  </component>
+</project>

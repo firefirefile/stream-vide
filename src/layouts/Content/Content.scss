@@ -1,0 +1,8 @@
+.content {
+  padding-bottom: var(--section-padding-y);
+  padding-top:fluid-to-laptop(50,40);
+
+  &--reset-padding-top {
+ padding-top: 0;
+  }
+}

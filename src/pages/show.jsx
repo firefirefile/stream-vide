@@ -1,0 +1,20 @@
+import ShowBanner from "@/sections/ShowBanner";
+import MovieDetails from "@/sections/MovieDetails";
+import Seasons from "@/Components/Seasons";
+
+
+export const metadata = {
+    title: 'Show - Stranger Things',
+}
+
+export default  () => {
+    return (
+        <>
+            <ShowBanner />
+            <MovieDetails
+            seasons={<Seasons />}
+            />
+
+        </>
+    )
+}
